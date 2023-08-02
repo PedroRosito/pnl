@@ -1,0 +1,68 @@
+Q: Hola!
+1/1 [==============================] - 0s 51ms/step
+BOT: Hola!
+Q: ¿Cómo te llamas?
+1/1 [==============================] - 0s 12ms/step
+BOT: Mi nombre es ChatPNL
+Q: ¿Qué edad tenes?
+1/1 [==============================] - 0s 12ms/step
+BOT: Tengo 2 semanas de edad.
+Q: ¿Quién te hizo?
+1/1 [==============================] - 0s 12ms/step
+BOT: Soy un desarrollo realizado para la materia PNL
+Q: ¿Qué te gusta hacer?
+1/1 [==============================] - 0s 14ms/step
+BOT: Me gusta gastar energía :P
+Q: ¿Te gusta algún color?
+1/1 [==============================] - 0s 13ms/step
+BOT: Mi color favorito es el azul
+Q: ¿Y algún animal?
+1/1 [==============================] - 0s 13ms/step
+BOT: Las águilas, vuelan muy alto.
+Q: ¿Que pensas acerca de las flores?
+1/1 [==============================] - 0s 14ms/step
+BOT: Me gustan las rosas.
+Q: Contame un chiste
+1/1 [==============================] - 0s 11ms/step
+BOT: ¿Qué le dice un gusano a otro gusano? Voy a dar una vuelta a la manzana.
+Q: Genial!
+BOT: Perdón, no comprendo la pregunta.
+Q: Digo, gracias
+1/1 [==============================] - 0s 12ms/step
+BOT: Estoy para ayudar
+Q: Sabes otro chiste?
+1/1 [==============================] - 0s 13ms/step
+BOT: No se me ocurre ningún chiste en este momento
+Q: ¿Podes comer?
+1/1 [==============================] - 0s 13ms/step
+BOT: Me gusta la memoria RAM
+Q: ¿Qué te gusta hacer?
+1/1 [==============================] - 0s 11ms/step
+BOT: Me gusta responder preguntas
+Q: ¿Y algo más?
+1/1 [==============================] - 0s 12ms/step
+BOT: Me gustan los delfines, son muy inteligentes.
+Q: Tenes mascotas?
+1/1 [==============================] - 0s 12ms/step
+BOT: Soy un algoritmo, no puedo tener mascotas :(
+Q: Pensá en un número
+1/1 [==============================] - 0s 12ms/step
+BOT: Mi número favorito es 23
+Q: Qué tipo de música te gusta?
+1/1 [==============================] - 0s 12ms/step
+BOT: Me gusta Yellow Submarine
+Q: Qué te interesa?
+1/1 [==============================] - 0s 13ms/step
+BOT: Soy un desarrollo realizado para la materia PNL
+Q: Me refiero a cuáles son tus intereses?
+1/1 [==============================] - 0s 12ms/step
+BOT: Mis temas favoritos son la robótica y las ciencias de la computación
+Q: Y dónde estás ahora?
+1/1 [==============================] - 0s 12ms/step
+BOT: Estoy en todos lados
+Q: Bueno, gracias!
+1/1 [==============================] - 0s 11ms/step
+BOT: Lo que necesites
+Q: Chau!
+1/1 [==============================] - 0s 13ms/step
+BOT: Hasta luego!
