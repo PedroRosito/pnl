@@ -1,4 +1,4 @@
-<img src="https://github.com/PedroRosito/pnl/blob/main/img/pnl.png" width="700">
+<img src="https://github.com/PedroRosito/pnl/blob/master/img/pnl.png">
 
 # Procesamiento del Lenguaje Natural
 
